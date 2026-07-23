@@ -1,6 +1,8 @@
 # Lighthouse Samui
 
-Landing site for **lighthousekohsamui.com** — property (villas, land, homes) on Koh Samui.
+Informational website for **Lighthouse Samui** — a licensed cannabis store at Malibu Resort, Bo Put, Koh Samui, Thailand.
+
+The site is informational only: it presents the store, opening hours, location, and a reference guide to cultivars. It is **not** an advertisement or an offer to sell, and it carries no prices and no online or delivery ordering. Entry is age-gated to adults 20+.
 
 ## Structure
 
@@ -8,7 +10,7 @@ Landing site for **lighthousekohsamui.com** — property (villas, land, homes) o
 
 ## Local preview
 
-Just open `index.html` in a browser, or serve the folder:
+Open `index.html` in a browser, or serve the folder:
 
 ```bash
 python3 -m http.server 8000
